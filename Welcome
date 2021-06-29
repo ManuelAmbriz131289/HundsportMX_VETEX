@@ -22,10 +22,5 @@ plano
 y estoy a punto de ingresar una rama 
 
 
-<<<<<<< HEAD
 estoy en el master ahora y estoy haciendo cambios 
-=======
-ya active la primer rama 
-
-voy a finalizar la rama y ya estan todos los cambios 
->>>>>>> 1eraRama
+git status
